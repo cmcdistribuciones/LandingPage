@@ -2,7 +2,7 @@
 
 // Función para redirigir a WhatsApp con mensaje personalizado
 function contactWhatsApp(productName) {
-  const phone = "57313785499"; // Tu número (sin el +)
+  const phone = "573137774871"; // Tu número (sin el +)
   const message = encodeURIComponent(`Hola, estoy interesado en la oferta de ${productName} que vi en la página web. ¿Me das más info?`);
   const url = `https://wa.me/${phone}?text=${message}`;
   window.open(url, '_blank');
