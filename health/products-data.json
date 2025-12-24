@@ -1,0 +1,277 @@
+{
+  "products": [
+    {
+      "id": "cloruro-magnesio",
+      "name": "Cloruro de Magnesio x100 tabletas",
+      "brand": "Laboratorios Naturalsplast S.A.S.",
+      "image": "../images/magnesio.png",
+      "shortDesc": "Equilibrio muscular, articular y nervioso. Con Cúrcuma y Colágeno.",
+      "fullDesc": "Suplemento mineral natural a base de Cloruro de Magnesio, Cúrcuma y Colágeno, formulado para apoyar el equilibrio muscular, articular y nervioso. Ideal para personas que buscan aliviar dolores musculares, mejorar la movilidad y mantener una salud integral. Endulzado naturalmente con stevia y respaldado por Laboratorios Naturalsplast S.A.S. con registro INVIMA vigente.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "💪 Salud muscular y ósea: el magnesio favorece la función de los músculos y la fortaleza de los huesos.",
+        "🧘 Relajación y bienestar: ayuda a reducir el estrés, el cansancio y mejora la calidad del sueño.",
+        "🦴 Apoyo articular: la combinación con colágeno y cúrcuma contribuye a la flexibilidad y movilidad.",
+        "⚡ Equilibrio corporal: regula la función nerviosa y contribuye al metabolismo energético.",
+        "🍃 Natural y sin azúcar: contiene stevia, ideal para quienes buscan una opción saludable y confiable."
+      ],
+      "howToUse": "Consumir 2 tabletas al día, preferiblemente una en la mañana y otra en la noche, acompañadas de agua."
+    },
+    {
+      "id": "melena-leon",
+      "name": "Melena de León x100 tabletas",
+      "brand": "Laboratorios Naturalsplast S.A.S.",
+      "image": "../images/melena.png",
+      "shortDesc": "Concentración, memoria y salud cerebral. Con Vitaminas B.",
+      "fullDesc": "Suplemento natural elaborado a base de Melena de León (Hericium erinaceus), suero de leche y vitaminas del complejo B (B1, B2 y B6), formulado para apoyar la concentración, la memoria y la salud cerebral. Su mezcla natural favorece el enfoque mental, la claridad cognitiva y el bienestar emocional. Producto endulzado con stevia, libre de azúcar y con registro INVIMA, respaldado por Laboratorios Naturalsplast S.A.S.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "🧠 Concentración y memoria: la Melena de León estimula las funciones cognitivas y la claridad mental.",
+        "💪 Energía natural: las vitaminas del complejo B ayudan a mantener el equilibrio del sistema nervioso.",
+        "😌 Reducción del estrés: favorece la estabilidad emocional y la relajación mental.",
+        "🧬 Salud cerebral a largo plazo: promueve la regeneración neuronal y el bienestar cognitivo.",
+        "🍃 Natural y confiable: sin azúcar, con stevia y registro INVIMA."
+      ],
+      "howToUse": "Consumir 2 tabletas al día, preferiblemente una en la mañana y otra en la noche, acompañadas de agua."
+    },
+    {
+      "id": "bisglicinato-magnesio",
+      "name": "Gummimas Bisglicinato de Magnesio x60 und",
+      "brand": "Fitovit",
+      "image": "../images/bisglicinato.png",
+      "shortDesc": "Energía y concentración. Con Vitamina B2 y Cafeína.",
+      "fullDesc": "Deliciosas gomitas masticables con Bisglicinato de Magnesio, Vitamina B2 y Cafeína. Apoyan más de 300 funciones vitales del cuerpo, ayudando a la energía, concentración, músculos y descanso. Con respaldo directo de fábrica.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "⚡ Energía natural: combate la fatiga y aporta vitalidad diaria.",
+        "🎯 Concentración y enfoque: gracias a la combinación de cafeína + magnesio.",
+        "💪 Recuperación muscular: previene calambres y mejora el rendimiento físico.",
+        "🔄 Bienestar general: regula más de 300 funciones del organismo.",
+        "🍬 Practicidad: formato en gomitas con sabor a chicle, fácil y agradable de consumir."
+      ],
+      "howToUse": "Consumir 2 gomitas al día, preferiblemente en la mañana o antes de actividades que requieran energía y concentración."
+    },
+    {
+      "id": "citrato-magnesio-zinc",
+      "name": "Gummimas Citrato de Magnesio + Citrato de Zinc x60 und",
+      "brand": "Fitovit",
+      "image": "../images/citrato.png",
+      "shortDesc": "Defensas y huesos sanos. Sabor Uva.",
+      "fullDesc": "Deliciosas gomitas masticables sabor uva con Citrato de Magnesio y Zinc, potenciadas con pimienta negra, semillas de ajonjolí y té verde. Fórmula innovadora para apoyar energía, defensas, músculos, huesos y concentración. Con registro INVIMA y respaldo directo de fábrica.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "⚡ Energía y vitalidad: combate el cansancio y la fatiga.",
+        "🛡️ Defensas fuertes: el zinc refuerza el sistema inmunológico.",
+        "🦴 Músculos y huesos sanos: previene calambres y fortalece la estructura ósea.",
+        "🧠 Enfoque y memoria: favorece la claridad mental y concentración.",
+        "🍇 Practicidad: gomitas fáciles de consumir con delicioso sabor a uva."
+      ],
+      "howToUse": "Consumir 2 gomitas al día, preferiblemente en la mañana o después de las comidas."
+    },
+    {
+      "id": "proshom",
+      "name": "PROSHOM x100 tabletas",
+      "brand": "Laboratorios Naturalsplast S.A.S.",
+      "image": "../images/proshom.png",
+      "shortDesc": "Salud prostática y vitalidad masculina.",
+      "fullDesc": "Suplemento natural elaborado a base de suero de leche con Cranberry, Licopeno y Níspero, diseñado para promover la salud prostática, urinaria y cardiovascular en hombres adultos. Su fórmula contiene antioxidantes y compuestos bioactivos que ayudan a proteger la próstata y mejorar la vitalidad masculina. Endulzado con stevia, libre de azúcar y con registro INVIMA garantizado por Laboratorios Naturalsplast S.A.S.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "🧬 Apoyo prostático: el cranberry y el licopeno contribuyen al buen funcionamiento de la próstata.",
+        "🚻 Salud urinaria: ayuda a prevenir infecciones y mejorar el flujo urinario.",
+        "❤️ Protección cardiovascular: el licopeno actúa como antioxidante, protegiendo las células del estrés oxidativo.",
+        "💪 Vitalidad masculina: promueve energía y bienestar general en hombres mayores de 35 años.",
+        "🍃 Natural y confiable: fórmula con stevia, sin azúcar y con respaldo INVIMA."
+      ],
+      "howToUse": "Consumir 2 tabletas diarias, preferiblemente una en la mañana y otra en la noche, acompañadas de un vaso de agua."
+    },
+    {
+      "id": "vinagre-manzana",
+      "name": "Gummimas Vinagre de Manzana x60 und",
+      "brand": "Fitovit",
+      "image": "../images/vinagre.png",
+      "shortDesc": "Control de peso y digestión ligera. Sabor Manzana Verde.",
+      "fullDesc": "Deliciosas gomitas masticables con Vinagre de Manzana, Cafeína y Alcachofa. Fórmula natural para control de peso, digestión ligera y energía diaria. Con registro INVIMA y respaldo directo de fábrica.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "⚖️ Control de peso: ayuda a reducir el apetito y mejorar el metabolismo.",
+        "🌿 Digestión ligera: apoya el tránsito intestinal y evita la pesadez.",
+        "⚡ Energía natural: la cafeína brinda vitalidad y concentración.",
+        "🧹 Desintoxicación: la alcachofa favorece la limpieza del organismo.",
+        "🍏 Practicidad: formato en gomitas sabor manzana verde, fácil de consumir."
+      ],
+      "howToUse": "Consumir 2 gomitas al día, preferiblemente antes de las comidas principales."
+    },
+    {
+      "id": "colageno-biotina",
+      "name": "Gummimas Colágeno + Biotina + Vitamina E x60 und",
+      "brand": "Fitovit",
+      "image": "../images/colageno.png",
+      "shortDesc": "Cabello, piel y uñas fuertes. Sabor Frutos Rojos.",
+      "fullDesc": "Deliciosas gomitas masticables sabor frutos rojos con colágeno hidrolizado, biotina y vitamina E. Una fórmula completa para fortalecer piel, cabello y uñas desde adentro. Con registro INVIMA y respaldo directo de fábrica.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "💇 Cabello fuerte y brillante: estimula el crecimiento y evita la caída.",
+        "💅 Uñas resistentes: reduce la quiebra y favorece el crecimiento.",
+        "✨ Piel radiante: combate el envejecimiento y mejora la elasticidad.",
+        "🛡️ Defensa antioxidante: vitamina E para proteger células del daño oxidativo.",
+        "🍓 Practicidad: formato en gomitas fáciles de consumir, sabor agradable y sin complicaciones."
+      ],
+      "howToUse": "Consumir 2 gomitas al día, preferiblemente en la mañana o después de una comida."
+    },
+    {
+      "id": "qbs",
+      "name": "QBS x100 tabletas",
+      "brand": "Laboratorios Naturalsplast S.A.S.",
+      "image": "../images/qbs.png",
+      "shortDesc": "Metabolismo y control del apetito. Con Glucomanano.",
+      "fullDesc": "Suplemento natural elaborado a base de suero de leche, glucomanano, bayas de goji y estevia, diseñado para apoyar el metabolismo, controlar el apetito y contribuir al bienestar digestivo. Su fórmula combina ingredientes naturales con edulcorantes no calóricos, ideal para quienes buscan mantener una figura saludable de manera natural. Cuenta con registro INVIMA y respaldo de Laboratorios Naturalsplast S.A.S.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "✅ Control del apetito: el glucomanano ayuda a generar sensación de saciedad y evitar antojos.",
+        "✅ Apoyo digestivo: mejora el tránsito intestinal gracias a su mezcla de fibra y suero de leche.",
+        "✅ Energía natural: las bayas de goji aportan antioxidantes que contribuyen al bienestar diario.",
+        "✅ Fórmula sin azúcar: contiene edulcorantes naturales como la estevia, apto para diabéticos.",
+        "✅ Saludable y confiable: con respaldo de laboratorio colombiano y registro INVIMA vigente."
+      ],
+      "howToUse": "Consumir 2 tabletas diarias, preferiblemente una antes del almuerzo y otra antes de la cena, acompañadas de un vaso de agua."
+    },
+    {
+      "id": "vitamina-c-zinc",
+      "name": "Gummimas Vitamina C + Zinc x60 und",
+      "brand": "Fitovit",
+      "image": "../images/vitc.png",
+      "shortDesc": "Sistema inmune y energía. Sabor Naranja.",
+      "fullDesc": "Gomitas masticables con Vitamina C y Zinc, una combinación perfecta para reforzar el sistema inmune y mantener la energía diaria. Con registro INVIMA y respaldo directo de fábrica.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "🛡️ Defensas fuertes: ayuda a prevenir resfriados y fortalece el sistema inmune.",
+        "⚡ Energía y vitalidad: combate el cansancio y favorece el bienestar diario.",
+        "✨ Salud de la piel: la vitamina C estimula la producción de colágeno.",
+        "🔬 Protección celular: el zinc actúa como antioxidante natural.",
+        "🍊 Practicidad: gomitas con delicioso sabor a naranja, fáciles de consumir."
+      ],
+      "howToUse": "Consumir 2 gomitas al día, preferiblemente en la mañana."
+    },
+    {
+      "id": "probioticos",
+      "name": "Gummimas Probióticos x60 und",
+      "brand": "Fitovit",
+      "image": "../images/probioticos.png",
+      "shortDesc": "Salud digestiva y defensas. Sabor Uva.",
+      "fullDesc": "Gomitas masticables con fructooligosacáridos, piña y vitamina C. Una fórmula natural para apoyar la salud digestiva, fortalecer el sistema inmune y mejorar el bienestar intestinal. Con registro INVIMA y respaldo directo de fábrica.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "🌿 Salud digestiva: regula la flora intestinal y alivia la inflamación abdominal.",
+        "🛡️ Defensas fuertes: la vitamina C fortalece el sistema inmunológico.",
+        "💚 Bienestar intestinal: ayuda a prevenir estreñimiento y mejorar la absorción de nutrientes.",
+        "🍇 Practicidad: formato en gomitas con delicioso sabor a uva.",
+        "👨‍👩‍👧‍👦 Apto para toda la familia: ideal para niños y adultos."
+      ],
+      "howToUse": "Consumir 2 gomitas al día, preferiblemente después de una comida."
+    },
+    {
+      "id": "ashwagandha",
+      "name": "Ashwagandha x60 cápsulas",
+      "brand": "Fitovit",
+      "image": "../images/ashwagandha.png",
+      "shortDesc": "Control del estrés y sueño reparador.",
+      "fullDesc": "Suplemento natural con Withania Somnifera (Ashwagandha), reconocido por sus propiedades adaptógenas que ayudan al cuerpo a manejar el estrés, mejorar el descanso y aumentar la vitalidad. Con registro INVIMA y respaldo directo de fábrica.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "🧘 Control del estrés y ansiedad: ayuda a equilibrar el sistema nervioso.",
+        "😴 Sueño reparador: favorece la relajación y mejora la calidad del descanso.",
+        "⚡ Energía y vitalidad: combate el cansancio físico y mental.",
+        "🧠 Rendimiento físico y mental: apoya la memoria, concentración y resistencia.",
+        "🌿 Bienestar integral: adaptógeno natural con múltiples beneficios."
+      ],
+      "howToUse": "Consumir 2 cápsulas al día, preferiblemente una en la mañana y otra en la noche."
+    },
+    {
+      "id": "creatina",
+      "name": "Creatina Monohidratada (300 g)",
+      "brand": "Fitovit",
+      "image": "../images/creatina.png",
+      "shortDesc": "Fuerza y potencia muscular. Vegana.",
+      "fullDesc": "Presentación en polvo (20 porciones de 5 g c/u). Fórmula con Creatina Monohidratada, Valina, Leucina, Isoleucina y base de proteína de arveja (vegana).",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "💪 Aumento de fuerza y potencia muscular",
+        "🏋️ Mayor resistencia en entrenamientos intensos",
+        "⚡ Recuperación más rápida post-entrenamiento",
+        "🥗 Aporte de aminoácidos esenciales (BCAA's)",
+        "🌱 Fórmula vegana y natural con proteína de arveja"
+      ],
+      "howToUse": "Disolver 1 scoop (5 g) en agua o bebida de preferencia. Consumir preferiblemente antes o después del entrenamiento."
+    },
+    {
+      "id": "resveratrol",
+      "name": "Gummimas Resveratrol x60 und",
+      "brand": "Fitovit",
+      "image": "../images/resveratrol.png",
+      "shortDesc": "Juventud celular y energía. Fórmula avanzada con Colágeno y Magnesio.",
+      "fullDesc": "Gomitas masticables con Resveratrol, Colágeno Hidrolizado, Bisglicinato y Citrato de Magnesio, Biotina y Omega 3 (EPA + DHA). Una fórmula avanzada para juventud celular, energía, salud cardiovascular y belleza integral. Con registro INVIMA y respaldo directo de fábrica.",
+      "prices": {
+        "unit": 99900,
+        "combo2": 129900,
+        "combo3": 159900
+      },
+      "benefits": [
+        "⏳ Antienvejecimiento celular: el resveratrol combate radicales libres y retrasa el envejecimiento.",
+        "⚡ Energía y vitalidad: magnesio + omega 3 apoyan el rendimiento físico y mental.",
+        "❤️ Corazón saludable: protege la salud cardiovascular y la circulación.",
+        "✨ Piel, cabello y uñas: colágeno y biotina fortalecen belleza desde adentro.",
+        "🍇 Practicidad: formato en gomitas sabor uva, fácil de consumir."
+      ],
+      "howToUse": "Consumir 2 gomitas al día, preferiblemente en la mañana."
+    }
+  ]
+}

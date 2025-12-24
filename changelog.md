@@ -1,5 +1,23 @@
 # Historial de Cambios
 
+## [24 de Diciembre, 2025]
+
+### Agregado
+- **Modal Premium de Productos**: Implementado sistema de popup/modal con diseño glassmorphism para mostrar información detallada de productos.
+  - Base de datos JSON (`health/products-data.json`) con información completa de 13 productos.
+  - Diseño premium con efectos de glassmorphism, animaciones suaves y scrollbar personalizado.
+  - Opciones de precio (Unidad, Combo x2, Combo x3) con cálculo automático de ahorros.
+  - Beneficios principales listados con emojis para mejor lectura.
+  - Instrucciones de uso para cada producto.
+  - Integración con WhatsApp manteniendo funcionalidad existente.
+  - Múltiples formas de cierre: botón X, botón Cerrar, tecla ESC, click fuera del modal.
+  - Documentación completa en `health/MODAL_DOCUMENTATION.md`.
+
+### Cambiado
+- **Tarjetas de Productos**: Agregados atributos `data-product-id` y eventos `onclick` para abrir el modal.
+- **JavaScript**: Nuevo sistema de carga dinámica de productos desde JSON (`health/script.js`).
+- **CSS**: Agregados ~370 líneas de estilos para el modal premium (`health/style.css`).
+
 ## [Sin Publicar]
 
 ### Agregado
