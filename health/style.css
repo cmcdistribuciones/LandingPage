@@ -135,6 +135,51 @@ body {
     opacity: 0.8;
 }
 
+/* --- Hero Image with Glassmorphism --- */
+.hero-image {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 20px;
+    
+    /* Glassmorphism effect */
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    
+    /* Subtle border with gradient */
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    
+    /* Soft shadow for depth */
+    box-shadow: 
+        0 8px 32px rgba(0, 0, 0, 0.15),
+        inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    
+    /* Smooth transition */
+    transition: all 0.4s ease;
+}
+
+.hero-image:hover {
+    transform: translateY(-5px);
+    box-shadow: 
+        0 12px 40px rgba(0, 0, 0, 0.2),
+        inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+.hero-image img {
+    position: relative;
+    z-index: 1;
+    filter: drop-shadow(0 10px 25px rgba(0, 0, 0, 0.2));
+    transition: transform 0.4s ease;
+}
+
+.hero-image:hover img {
+    transform: scale(1.05);
+}
+
+
 /* --- Generic Sections --- */
 .section {
     padding: 80px 20px;
