@@ -1,5 +1,10 @@
 # Historial de Cambios
 
+## [25 de Diciembre, 2025]
+
+### Mejorado
+- **Efecto de Clic en Modal**: Ajustado el estado `:active` de las opciones de compra en el modal para usar un efecto más sutil y coherente con el diseño (escala y sombra suave) en lugar del verde intenso por defecto del navegador.
+
 ## [24 de Diciembre, 2025]
 
 ### Agregado
