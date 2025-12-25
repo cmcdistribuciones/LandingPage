@@ -229,12 +229,14 @@ function selectPricingOption(index) {
     // Update visual selection
     const allOptions = document.querySelectorAll('.pricing-option');
     allOptions.forEach((opt, i) => {
+        // Remove both selected and featured classes from all options
+        opt.classList.remove('selected', 'featured');
+
         if (i === index) {
+            // Add selected class to the clicked option
             opt.classList.add('selected');
             const radio = opt.querySelector('input[type="radio"]');
             if (radio) radio.checked = true;
-        } else {
-            opt.classList.remove('selected');
         }
     });
 
